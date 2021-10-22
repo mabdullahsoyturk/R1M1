@@ -1,6 +1,6 @@
 # R1M1
 
-This repository contains examples of use cases, domain models, system sequence diagrams (SSDs), operations contracts, vision, supplementary specification and glossary. 
+This repository contains examples of use cases, domain models, system sequence diagrams (SSDs), operations contracts, vision, supplementary specification and glossary. Examples and images are taken from: Applying UML and Pattern 3rd edition. 
 
 ---
 ## Use Cases
