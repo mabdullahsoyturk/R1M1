@@ -146,6 +146,8 @@ By illustrating the timeline of events happening. You can think vertical dashed 
 
 ![System Sequence Diagram](./figures/ssd.png)
 
+Another example: [SSD Example](https://www.youtube.com/watch?v=XIQKt5Bs7II&ab_channel=Lucidchart)
+
 ---
 ## Operation Contracts
 
